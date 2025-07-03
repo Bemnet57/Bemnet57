@@ -5,13 +5,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Software Engineering major]** with experience in **[user-centered design and development]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineering major** with experience in **user-centered design and development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[I am currently learning Backend ProDev at ALX ]**
-- 🔭 Working on: **[AirBnB clone]**
-- 🌍 Languages: **[English, Amharic & learning Japanese]**
-- 📫 How to reach me: **[email: bemnetasseged57@gmail.com]**
-- ⚡ Fun fact: **[I like astronomy, art history and nap times]**
+- 🌱 Currently learning: **Backend ProDev at ALX**
+- 🔭 Working on: **AirBnB clone**
+- 🌍 Languages: **English, Amharic & learning Japanese**
+- 📫 How to reach me: **email: bemnetasseged57@gmail.com**
+- ⚡ Fun fact: **I like astronomy, art history and nap times**
 
 ## My Skills 🧠
 
