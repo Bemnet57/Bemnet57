@@ -1,7 +1,7 @@
 
 # Hi there, I'm Bemnet! 👋
 
-![Banner Image](https://www.pinterest.com/basseged/art/)
+![Banner Image](https://pin.it/7EraTBBIp)
 
 ## About Me 🚀
 
