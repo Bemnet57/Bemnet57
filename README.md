@@ -8,7 +8,7 @@
 I'm a passionate **Software Engineering major** with experience in **user-centered design and development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Backend ProDev at ALX**
-- 🔭 Working on: **AirBnB clone,** **5K Book Store**
+- 🔭 Working on: **AirBnB clone,** **5K Book Store,** **Project Nexsus(job-platform-backend)**
 - 🌍 Languages: **English, Amharic & learning Japanese**
 - 📫 How to reach me: **email: bemnetasseged57@gmail.com**
 - ⚡ Fun fact: **I like astronomy, art history and nap times**
