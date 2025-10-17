@@ -7,7 +7,7 @@
 
 I'm a passionate **Software Engineering major** with experience in **user-centered design and development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Backend ProDev at ALX**
+- 🌱 Just graduated from: **Backend ProDev at ALX**
 - 🔭 Working on: **5K Book Store,** **LeetCode Journal,** **number_theory_toolkit**
 - 🌍 Languages: **English, Amharic & learning Japanese**
 - 📫 How to reach me: **email: bemnetasseged57@gmail.com**
