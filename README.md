@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passion for **EdTech and Research**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passion for **EdTech and Research**. <!-- I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.-->
 
 - 🌱 Just graduated from: **Backend ProDev at ALX**
 - 🔭 Working on: **5K Book Store,** **LeetCode Journal,** **number_theory_toolkit**
