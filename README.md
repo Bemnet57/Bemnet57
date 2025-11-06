@@ -27,7 +27,7 @@ I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passio
 - **[Twitter]**(https://x.com/BemnetBezabih)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bemnet57)](https://github.com/Bemnet57/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bemnet57&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bemnet57&show_icons=true&theme=radical)-->
 
 
 <!--
