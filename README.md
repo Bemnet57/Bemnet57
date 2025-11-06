@@ -23,7 +23,7 @@ I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passio
 - LinkedIn: [linkedin.com/in/bemnet-asseged-a0a858238/](https://linkedin.com/in/bemnet-asseged-a0a858238/)
 
 <!--- **[Personal Website / Blog]**(your_website_or_blog_link)-->
-- **[LinkedIn]**(https://linkedin.com/in/bemnet-asseged-a0a858238/)
+<!--- **[LinkedIn]**(https://linkedin.com/in/bemnet-asseged-a0a858238/)-->
 - **[Twitter]**(https://x.com/BemnetBezabih)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bemnet57)](https://github.com/Bemnet57/github-readme-stats)-->
