@@ -5,9 +5,9 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passion for **EdTech and Research**. <!-- I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.-->
+I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passion for **Quantum computing, EdTech and Research**. <!-- I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.-->
 
-- 🌱 Just graduated from: **Backend ProDev at ALX**
+- 🌱 Interning at: **QBIT Cyber Solutions PLC**
 - 🔭 Working on: **5K Book Store,** **LeetCode Journal,** **number_theory_toolkit**
 - 🌍 Languages: **English, Amharic & learning Japanese**
 - 📫 How to reach me: **email: bemnetasseged57@gmail.com**
