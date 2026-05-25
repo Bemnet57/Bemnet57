@@ -7,8 +7,8 @@
 
 I'm a passionate **Software Engineering major** at CTBE(former AAiT) with passion for **Quantum computing, EdTech and Research**. <!-- I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.-->
 
-- 🌱 Interning at: **QBIT Cyber Solutions PLC**
-- 🔭 Working on: **5K Book Store,** **LeetCode Journal,** **number_theory_toolkit**
+- 🌱 Interning at: **Enat Bank**
+- 🔭 Working on: **E-contact-generator**
 - 🌍 Languages: **English, Amharic & learning Japanese**
 - 📫 How to reach me: **email: bemnetasseged57@gmail.com**
 - ⚡ Fun fact: **I like astronomy, art history and nap times**
